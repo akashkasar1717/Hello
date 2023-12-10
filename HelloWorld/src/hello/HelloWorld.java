@@ -56,7 +56,7 @@
 //#include <stdlib.h>
 //int main(int argc, char *argv[]) {
 //struct stat info;
-//if (argc != 2) {
+// if (argc != 2) {
 //printf("Enter filename\n");
 //}
 //if (stat(argv[1], &info) == -1) {
